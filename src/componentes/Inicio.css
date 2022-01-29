@@ -23,4 +23,9 @@
 
 .table td{
     border: rgb(205, 158, 250) solid 1px;
+    text-align: center;
+}
+
+.table tr{
+    text-align: center;
 }
