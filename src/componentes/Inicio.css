@@ -1,0 +1,26 @@
+.btn{
+    background-color: rgb(10, 63, 179);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    height: 5vh;
+}
+
+.div-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-bottom: blue solid 2px;
+}
+
+.table {
+    margin: auto;
+}
+
+.table th{
+    background-color: rgb(205, 158, 250);
+}
+
+.table td{
+    border: rgb(205, 158, 250) solid 1px;
+}
